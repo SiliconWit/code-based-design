@@ -1,5 +1,9 @@
 # How to Run the Heatsink Designer in FreeCAD
 
+<p align="center">
+  <img src="images/interesting_design1.png" alt="Interesting design output">
+</p>
+
 ## Prerequisites
 1. Install FreeCAD (Version 0.20 or later recommended)
 2. Make sure Python is included in your FreeCAD installation (it usually is by default)
